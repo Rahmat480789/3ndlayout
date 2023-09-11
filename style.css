@@ -1,0 +1,146 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    height: 50px;
+    width: 100%;
+    display: flex;
+}
+.liton{
+    height: 100px;
+    width: 20%;
+    background-color: aquamarine;
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+.liton_2{
+    height: 100px;
+    width: 80%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.qq{
+    height: 100px;
+    width: 100%;
+    background-color: pink;
+    color: green;
+    text-align: center;
+    font-size: 50px;
+}
+.ol{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    margin-top: 40px;
+}
+.asma{
+    height: 500px;
+    width: 100%;
+    display: flex;
+}
+.asma_1{
+    height: 500px;
+    width: 30%;
+   
+}
+.asma_11{
+    height: 250px;
+    width: 100%;
+    background-color: blueviolet;
+    color: cadetblue;
+    font-size: 50px;
+    text-align: center;
+}
+.asma_111{
+    height: 250px;
+    width: 100%;
+    background-color: darkgray;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+.asma_2{
+    height: 500px;
+    width: 20%;
+    display: flex;
+}
+.asma_22{
+    height: 500px;
+    width: 50%;
+    background-color: crimson;
+    color: darkorchid;
+    font-size: 25px;
+   text-align: center;
+}
+.asma_222{
+    height: 500px;
+    width: 50%;
+    background-color: blanchedalmond;
+    color: black;
+    font-size: 25px;
+   text-align: center;
+}
+
+.asma_3{
+    height: 500px;
+    width: 20%;
+    background-color: rosybrown;
+    color: wheat;
+    font-size: 50px;
+    text-align: center; 
+}
+.asma_4{
+    height: 500px;
+    width: 30%;
+  
+}
+.asma_44{
+    height: 250px;
+    width: 100%;
+    background-color: saddlebrown;
+    color: green;
+    font-size: 50px;
+    text-align: center;
+}
+.asma_444{
+    height: 250px;
+    width: 100%;
+    background-color: yellow;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+.roja{
+    height: 50px;
+    width: 100%;
+    display: flex;
+}
+.roja_1{
+    height: 100px;
+    width: 30%;
+    background-color: brown;
+    color: beige;
+    text-align: center;
+    font-size: 50px;
+}
+.roja_2{
+    height: 100px;
+    width: 70%;
+    background-color: darkorange;
+    color: fuchsia;
+    text-align: center;
+    font-size: 50px;
+}
+.pass{
+    height: 100px;
+    width: 100%;
+    background-color: chartreuse;
+    color: coral;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+  }
